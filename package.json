@@ -1,0 +1,17 @@
+{
+  "name": "typescript-tech-talk",
+  "version": "1.0.0",
+  "description": "Some TypeScript examples with comments in german",
+  "main": "index.js",
+  "scripts": {
+    "clean": "rimraf src/**/*.js"
+  },
+  "author": "Andreas Neumann",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/is": "0.0.17",
+    "@types/jquery": "^2.0.41",
+    "rimraf": "^2.6.1",
+    "typescript": "^2.2.1"
+  }
+}
