@@ -2,6 +2,10 @@
   "name": "typescript-tech-talk",
   "version": "1.0.0",
   "description": "Some TypeScript examples with comments in german",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a-neumann/typescript-tech-talk.git"
+  },
   "main": "index.js",
   "scripts": {
     "clean": "rimraf src/**/*.js"
